@@ -32,4 +32,5 @@ async function mintBridgeNFT(tokenURI){
 
 // mintBridgeNFT("https://gateway.pinata.cloud/ipfs/QmS77m9AcAE36yDsDcif3qJFGZB2zUMTycYMAaffi3R5zH");
 mintBridgeNFT("https://gateway.pinata.cloud/ipfs/QmXqzvimuxeHHMEk4DpPSpymNoPsXowTgGmFq36HsDMLWb")
-// open see URL: https://testnets.opensea.io/account?tab=created
+
+// opensee URL: https://testnets.opensea.io/account?tab=created

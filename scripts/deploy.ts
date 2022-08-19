@@ -13,3 +13,6 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
+
+
+//contractAddress:  0xb6798f8CaFA383C855B2db45ce
