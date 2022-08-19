@@ -1,0 +1,9 @@
+{
+    "name":"planet",
+    "description":"bridgeNFT test image 2",
+    "image":"https://gateway.pinata.cloud/ipfs/QmYKr4MBUKgCK6XCHC445bLvJXBGaAMmq5Q6672G2Prpem",
+    "attributes":[{
+        "trait_type":"Background",
+        "value":"Dark Blue"
+    }]
+}

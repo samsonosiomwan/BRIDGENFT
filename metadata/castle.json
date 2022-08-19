@@ -1,0 +1,9 @@
+{
+    "name":"castle",
+    "description":"bridgeNFT test image",
+    "image":"https://gateway.pinata.cloud/ipfs/QmP7rm9pWsNRgK3jZFZ4BbUwcxQCW5c58D4sJZv9ByxJ5v",
+    "attributes":[{
+        "trait_type":"Background",
+        "value":"Black"
+    }]
+}
